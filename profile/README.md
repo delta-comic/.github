@@ -1,4 +1,4 @@
-<p align="center">
+[<p align="center">
     <img alt="logo" src="icon.png" width="120" height="120" style="margin-bottom: 10px;">
 </p>
 
@@ -17,20 +17,20 @@
 
 ### Delta Comic
 
-   [![Readme Card](https://gh-card.dev/repos/wenxig/delta-comic.svg)](https://github.com/wenxig/delta-comic)  
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-comic&repo=delta-comic)](https://github.com/wenxig/delta-comic)  
 
 ### PicaAcg/bika/哔卡漫画
 
-   [![Readme Card](https://gh-card.dev/repos/wenxig/delta-comic-plugin-bika.svg)](https://github.com/wenxig/delta-comic-plugin-bika)  
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-comic&repo=delta-comic-plugin-bika)](https://github.com/wenxig/delta-comic-plugin-bika)  
 
 ### Jmcomic/禁漫天堂
 
-   [![Readme Card](https://gh-card.dev/repos/wenxig/delta-comic-plugin-jmcomic.svg)](https://github.com/wenxig/delta-comic-plugin-jmcomic)  
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-comic&repo=delta-comic-plugin-jmcomic)](https://github.com/wenxig/delta-comic-plugin-jmcomic)  
 
 ### Cosav/cos天堂
 
-   [![Readme Card](https://gh-card.dev/repos/wenxig/delta-comic-plugin-cosav.svg)](https://github.com/wenxig/delta-comic-plugin-cosav)  
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-comic&repo=delta-comic-plugin-cosav)](https://github.com/wenxig/delta-comic-plugin-cosav)  
 
 ### E-hentai/ExHentai/EHentai(_开发中_)    
 
-   [![Readme Card](https://gh-card.dev/repos/wenxig/delta-comic-plugin-ehentai.svg)](https://github.com/wenxig/delta-comic-plugin-ehentai)  
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=delta-comic&repo=delta-comic-plugin-ehentai)](https://github.com/wenxig/delta-comic-plugin-ehentai)  
