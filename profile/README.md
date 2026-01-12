@@ -4,7 +4,7 @@
 
 <h1 align="center">Delta Space</h1>
 
-<p align="center">唯资源与数据无价<p>
+<p align="center">唯资源与数据之自由无价<p>
 
 ---
 
