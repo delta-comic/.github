@@ -8,4 +8,6 @@
 
 ---
 
-> npm主页: <https://www.npmjs.com/org/delta-comic>
+> [!WARNING]
+> npm主页: <https://www.npmjs.com/org/delta-comic>  
+> **已经弃用npm，全面转向Github Package**
